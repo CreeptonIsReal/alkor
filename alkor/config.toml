@@ -17,26 +17,9 @@ googleAnalytics = ""
     copyright = "Сервисный центр Alkor. Все права защищены."
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    mainSections = ["menus"]
 
-[[menu.main]]
-    url = "/main/"
-    name = "Главная"
-    weight = 1
 
-[[menu.main]]
-    url = "/services/"
-    name = "Услуги"
-    weight = 2
-
-[[menu.main]]
-    url = "/contacts/"
-    name = "Контакты"
-    weight = 3
-
-[[menu.main]]
-    url = "/about/"
-    name = "О нас"
-    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.

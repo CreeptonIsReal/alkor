@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menus on Alkor</title>
+    <link>http://example.com/menus/</link>
+    <description>Recent content in Menus on Alkor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.com/menus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Главная</title>
+      <link>http://example.com/menus/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/menus/main/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Контакты</title>
+      <link>http://example.com/menus/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/menus/contacts/</guid>
+      <description>Контактные данные Почта
+Ответим в ближайшее время:
+alkor_service@mail.ru
+Номер телефона:
+Наши сотрудники рады помочь вам:
++7 910 968 5898 Адрес:
+Приходите в удобное для вас время с 09:00 до 19:00:
+г. Рыбинск, ул. Румянцевская, 12</description>
+    </item>
+    
+    <item>
+      <title>О нас</title>
+      <link>http://example.com/menus/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/menus/about/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Услуги</title>
+      <link>http://example.com/menus/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/menus/services/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+  </channel>
+</rss>
