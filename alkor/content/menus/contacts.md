@@ -1,6 +1,6 @@
 ---
 title: "Контакты"
-description: "Как с нами связаться."
+description: ""
 draft: true
 menu: "main"
 weight: 50
