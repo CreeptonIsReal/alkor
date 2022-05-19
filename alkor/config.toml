@@ -18,6 +18,7 @@ googleAnalytics = ""
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     mainSections = ["menus"]
+    
 
 
 
