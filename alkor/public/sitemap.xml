@@ -2,20 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/menus/main/</loc>
+    <loc>http://alkorcloud.online/menus/main/</loc>
   </url><url>
-    <loc>http://example.com/menus/contacts/</loc>
+    <loc>http://alkorcloud.online/menus/contacts/</loc>
   </url><url>
-    <loc>http://example.com/menus/about/</loc>
+    <loc>http://alkorcloud.online/</loc>
   </url><url>
-    <loc>http://example.com/menus/services/</loc>
+    <loc>http://alkorcloud.online/categories/</loc>
   </url><url>
-    <loc>http://example.com/</loc>
+    <loc>http://alkorcloud.online/menus/</loc>
   </url><url>
-    <loc>http://example.com/categories/</loc>
-  </url><url>
-    <loc>http://example.com/menus/</loc>
-  </url><url>
-    <loc>http://example.com/tags/</loc>
+    <loc>http://alkorcloud.online/tags/</loc>
   </url>
 </urlset>
